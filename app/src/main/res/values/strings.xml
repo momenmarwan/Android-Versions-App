@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidVersions</string>
+    <string name="header_subtitle">A history of Android, version by version</string>
+    <string name="sort_by_code_name">Sort by Code Name</string>
+    <string name="logo_content_description">Android version logo</string>
+    <string name="chevron_content_description">Open details</string>
+</resources>
